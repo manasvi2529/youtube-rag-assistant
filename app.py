@@ -10,8 +10,7 @@ from langchain_google_genai import (
     ChatGoogleGenerativeAI,
     GoogleGenerativeAIEmbeddings
 )
-from langchain_faiss import FAISS
-
+from langchain_community.vectorstores import FAISS
 
 # -----------------------------
 # Page
