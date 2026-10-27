@@ -2,6 +2,8 @@
 
 An AI-powered YouTube RAG (Retrieval-Augmented Generation) Assistant that allows users to ask questions about a YouTube video's transcript and get intelligent, context-aware answers.
 
+## Live Demo: https://youtube-rag-assistant-kbjfy7ptzdf29m49e3uv6k.streamlit.app/
+
 ## 🚀 Features
 
 - 📺 Ask questions about YouTube video transcripts
